@@ -164,6 +164,7 @@
                                 </div>
                             </div>
                         </div>
+                        <a href="{{ url('/products/create') }}" class="btn btn-success">Dodaj produkt</a>
                     </main>
 
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
